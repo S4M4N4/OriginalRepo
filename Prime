@@ -1,9 +1,5 @@
-#sudo apt install npm
-
-
-#For Install!
-
-
+#sudo apt install npm:
+#For Install:
 npm install -g yarn 
 
 
