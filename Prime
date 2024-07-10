@@ -67,9 +67,6 @@ yarn install
 node deposit.js [Solana Address] 0x... 1500000 100 [Ethereum Private Key] https://rpc2.sepolia.org 
 
 
-#Example:
-
-
 node deposit.js   0x... 1500000 100 https://rpc2.sepolia.org 
 
 
