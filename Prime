@@ -1,4 +1,4 @@
-npm install -g yarn -a
+npm install -g yarn
 
 
 apt install cargo
