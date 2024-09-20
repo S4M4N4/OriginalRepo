@@ -1,7 +1,8 @@
-npm install -g yarn 
+npm install -g yarn
 
 
 apt install cargov
+
 
 #URL https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh 
 
